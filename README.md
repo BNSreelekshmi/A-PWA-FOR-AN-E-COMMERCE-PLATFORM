@@ -23,3 +23,8 @@ The service worker script plays a critical role in enabling offline access. It i
 Push notifications are implemented using the Notifications API and Firebase Cloud Messaging. By requesting permission from users, the app can inform customers about new products, discounts, or cart reminders, even when the app is not actively open in the browser. This demonstrates a practical use of PWAs and cloud technologies to engage users and increase retention.
 
 In summary, the technologies used in this project — HTML, CSS, JavaScript, Bootstrap, service workers, the Cache API, web manifest, and Firebase — collectively enable an e-commerce PWA that is responsive, offline-capable, installable, and real-time-enabled. This project demonstrates the practical application of Progressive Web Application principles combined with cloud technologies to build a scalable, efficient, and user-friendly e-commerce solution.
+
+# Output
+<img width="1841" height="957" alt="Image" src="https://github.com/user-attachments/assets/09c26d29-acf2-4aa5-9ffb-662157a3730d" />
+<img width="1900" height="938" alt="Image" src="https://github.com/user-attachments/assets/8d7fb56e-faec-4426-8c77-0f711dee6cda" />
+<img width="1887" height="682" alt="Image" src="https://github.com/user-attachments/assets/fb80c19c-84a3-4e22-ae97-30a9440dd57d" />
