@@ -10,6 +10,7 @@ Duration : 4 weeks
 
 Mentor Name : Neela Santhosh
 
+
 # A-PWA-FOR-AN-E-COMMERCE-PLATFORM
 
 It is a Progressive Web Application (PWA) for an e-commerce platform that allows users to browse products, add items to a cart, and interact with the app even offline. The primary focus of this project was to implement offline functionality, push notifications, responsive design, and real-time database management using modern web technologies such as service workers, the Cache API, and Firebase. The PWA architecture ensures that the application works seamlessly on multiple devices and network conditions, providing a fast, reliable, and app-like experience.
