@@ -1,0 +1,16 @@
+{
+  "name": "Simple PWA Shop",
+  "short_name": "Shop",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0d6efd",
+  "icons": [
+    { "src": "images/product1.jpeg", "sizes": "30x30", "type": "image/jpeg" },
+    { "src": "images/product2.jpeg", "sizes": "30x30", "type": "image/jpeg" },
+    { "src": "images/product3.jpeg", "sizes": "30x30", "type": "image/jpeg" },
+    { "src": "images/product4.png", "sizes": "10x10", "type": "image/png" },
+    { "src": "images/product5.png", "sizes": "10x10", "type": "image/jpg" },
+    { "src": "images/product6.png", "sizes": "10x10", "type": "image/jpg" }
+  ]
+}
